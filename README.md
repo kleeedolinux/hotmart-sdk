@@ -20,7 +20,7 @@ Unofficial TypeScript/JavaScript SDK for Hotmart API, focused on membership area
 ## Installation
 
 ```bash
-npm install @kleeedolinux/hotmart-sdk
+npm install hotmart-sdk
 ```
 
 ## Quick Start
